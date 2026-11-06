@@ -1,4 +1,4 @@
-# Yogi Suria — One Thread (Clone)
+# bheliant
 
 A 1:1 faithful clone of [ysuriadesign.co](https://ysuriadesign.co/) built with Next.js 16, React 19, Three.js r186, and custom GLSL shader pipelines.
 
