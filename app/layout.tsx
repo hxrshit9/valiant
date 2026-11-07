@@ -2,8 +2,8 @@ import type { Metadata, Viewport } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Yogi Suria — Design Engineer',
-  description: 'Yogi Suria — a one-person design engineer and marketing motion designer. Brand, product, motion and code, from sketch to shipped.',
+  title: 'Harshit Mishra — Design Engineer',
+  description: 'Harshit Mishra — a one-person design engineer and marketing motion designer. Brand, product, motion and code, from sketch to shipped.',
   icons: {
     icon: 'data:,',
   },

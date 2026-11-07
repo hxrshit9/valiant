@@ -41,31 +41,27 @@ export default function V1Page() {
       <header className="bar">
         <div className="bar-in">
           <div className="bar-l">
-            <a className="me" href="/" title="Yogi Suria — the 3D portfolio">
-              <img src="/profile.jpg" alt="" width="30" height="30" />
-              <span className="me-n">Yogi Suria</span>
+            <a className="me" href="/" title="Harshit Mishra — the 3D portfolio">
+              <span className="me-n">Harshit Mishra</span>
               <span className="pill-note">Design engineer</span>
             </a>
           </div>
           <div className="bar-r">
             <a
               className="pill icon"
-              href="https://x.com/suriadesign"
+              href="https://www.linkedin.com/in/harshit-mishra-7264b4431/"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Yogi on X"
+              aria-label="Harshit on LinkedIn"
             >
-              <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true">
-                <path
-                  fill="currentColor"
-                  d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
-                />
+              <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor">
+                <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 8.76a1.64 1.64 0 1 0 0-3.28 1.64 1.64 0 0 0 0 3.28M5.08 18.5h2.76v-8.37H5.08v8.37Z" />
               </svg>
             </a>
             <a
               className="pill icon"
-              href="mailto:hello@ysuriadesign.co"
-              aria-label="Email hello@ysuriadesign.co"
+              href="mailto:harshit9497@gmail.com"
+              aria-label="Email harshit9497@gmail.com"
             >
               <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true">
                 <rect
@@ -87,31 +83,13 @@ export default function V1Page() {
                 />
               </svg>
             </a>
-            <a
-              className="pill icon"
-              href="https://t.me/runnersedge"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Yogi on Telegram, @runnersedge"
-            >
-              <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true">
-                <path
-                  d="M20.6 4.3 3.4 11c-.8.3-.8 1.4 0 1.7l4.2 1.4 1.6 5c.2.7 1 .9 1.5.4l2.4-2.3 4.4 3.2c.6.4 1.4.1 1.6-.6l2.8-13.9c.2-.8-.6-1.4-1.3-1.1Z M8 14 17.5 7.4"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="1.7"
-                  strokeLinejoin="round"
-                  strokeLinecap="round"
-                />
-              </svg>
-            </a>
             <button className="pill icon" id="theme-btn" type="button" aria-label="Switch to light">
               <svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true">
                 <circle cx="8" cy="8" r="5.6" fill="none" stroke="currentColor" strokeWidth="1.4" />
                 <path d="M8 2.4a5.6 5.6 0 0 1 0 11.2z" fill="currentColor" />
               </svg>
             </button>
-            <span className="pill clock" title="Yogi’s local time, India">
+            <span className="pill clock" title="Harshit’s local time, India">
               <span className="clock-dot" aria-hidden="true"></span>
               <time id="clock"></time>
               <span className="clock-z">IST</span>
@@ -138,7 +116,7 @@ export default function V1Page() {
       </a>
 
       <main className="desk" id="desk">
-        <h1 className="vh">Yogi Suria — design engineer</h1>
+        <h1 className="vh">Harshit Mishra — design engineer</h1>
       </main>
 
       <div

@@ -39,20 +39,14 @@ export default function HomePage() {
           <div className="ft-r">
             <a
               className="ft-mail"
-              href="mailto:reachout@yogindersuria.live?subject=Project%20enquiry"
+              href="mailto:harshit9497@gmail.com?subject=Project%20enquiry"
             >
-              reachout@yogindersuria.live
+              harshit9497@gmail.com
               <span aria-hidden="true">→</span>
             </a>
             <nav className="ft-links mono" aria-label="Elsewhere">
-              <a href="https://ysuriadesign.com" target="_blank" rel="noopener noreferrer">
-                Portfolio ↗
-              </a>
-              <a href="https://x.com/suriadesign" target="_blank" rel="noopener noreferrer">
-                X ↗
-              </a>
               <a
-                href="https://www.linkedin.com/in/yogi-suria-a8b787316/"
+                href="https://www.linkedin.com/in/harshit-mishra-7264b4431/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -61,7 +55,7 @@ export default function HomePage() {
             </nav>
           </div>
           <div className="ft-base mono">
-            <span>© 2026 Yogi Suria</span>
+            <span>© 2026 Harshit Mishra</span>
             <button className="ft-again mono" data-jump="0">
               Begin again ↑
             </button>
@@ -72,11 +66,7 @@ export default function HomePage() {
       <main id="ui">
         <header className="top">
           <a className="mark" href="#" data-jump="0" aria-label="One Thread — back to start">
-            <span className="mark-pic" aria-hidden="true">
-              <img src="/media/profile.jpg" alt="" />
-              <b>YS</b>
-            </span>
-            <span className="mark-word">Yogi&nbsp;Suria</span>
+            <span className="mark-word">Harshit&nbsp;Mishra</span>
           </a>
           <div className="counter mono" aria-live="polite">
             <span id="count-now">00</span>
@@ -108,7 +98,7 @@ export default function HomePage() {
             Welcome to the greatest portfolio of 2026 · Opus 5.5 era
           </p>
           <h1 className="intro-title">
-            Yogi Suria — design, motion and code, by one person.
+            Design, motion and code, all by one person.
           </h1>
           <p className="intro-now">
             <i aria-hidden="true"></i>Currently designing at{' '}
